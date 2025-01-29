@@ -67,6 +67,7 @@ This dashboard provides a detailed analysis of sales, profits, and sub-category 
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/5266b193-598e-416a-bb94-26c3c5ddf634)
 
+![SuperSales Dashboard](https://github.com/user-attachments/assets/67f45dd3-a157-413f-b50b-7b960808e436)
+
 ![Screenshot 2025-01-28 095412](https://github.com/user-attachments/assets/1607e696-a6d3-4b9c-9eeb-2f39b90429cb)
 
-![SuperSales Dashboard](https://github.com/user-attachments/assets/67f45dd3-a157-413f-b50b-7b960808e436)
